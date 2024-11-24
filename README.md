@@ -11,7 +11,8 @@ I’m a **Computer Science student** at The Open University of Israel with a str
 
 ## ⚡ Fun Facts  
 - I’m a devoted **Neovim** enthusiast and enjoy customizing it to enhance productivity.  
-- I love to create Neovim plugins for myself and other people.  
+- I love to create Neovim plugins for myself and other people.
+- You can check out my latest neovim plugin `spotipy.nvim` [Here](https://github.com/AvivKermann/spotipy.nvim)
 - When I’m not coding, you’ll find me windsurfing, navigating waves with the same passion I bring to problem-solving.  
 
 ## 📫 Let’s Connect!  
